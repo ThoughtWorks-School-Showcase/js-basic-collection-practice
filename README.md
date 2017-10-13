@@ -34,7 +34,7 @@ NPM
 ## How to begin：
 Open your terminal, change to any path and clone this repository:
 ```
-git clone https://github.com/tws-online-quiz/gpst-js-basic-collection-practice
+git clone `this repo site`
 ```
 Install dependencies:
 ```
