@@ -1,6 +1,6 @@
 # JavaScript Array Basic
 
-## Business Requirement:
+## Business Requirement:
 * section-1, compare and filter items from two arrays - 4 practices included
 * section-2, group and count items in an array - 3 practices included
 * section-3, compare, filter and count items in two arrays - 4 practices included
